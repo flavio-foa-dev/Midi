@@ -9,3 +9,17 @@
 
   que a ordem de execução de um código JavaScript importa,
   desde a inserção da tag script antes do fechamos da tag </body> no HTML até a ordem do código JavaScript dentro do seu próprio arquivo.
+
+  Lista de elementos:
+  o querySelectorAll
+  Referências:
+  A estrutura de uma lista em JavaScript e como podemos acessar os elementos a partir dos índices com a sintaxe do colchetes.
+
+  Percorrendo uma lista
+  estrutura de repetição while , for
+  atributo length
+  template string
+  classList
+  Eventos no teclado:
+  Condições no código e operadores lógicos:
+  event
